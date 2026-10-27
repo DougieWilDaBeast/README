@@ -4,7 +4,7 @@ I'm an electronic engineer who builds AI that runs on real hardware. I've spent 
 
 Outside work I build things, break them and build them again: a tactical RPG, an offline voice assistant, a knowledge base that an AI agent keeps tidy, and a to-do app heading for Google Play.
 
-📍 Moving to **Brisbane, Australia in February 2027** (Working Holiday Visa granted) and looking for AI engineering roles there.
+📍 Based in Ireland, moving to **Brisbane, Australia in February 2027**.
 
 ### What I'm building
 
